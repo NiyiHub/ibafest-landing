@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ibafest-landing/static/css/main.8e2f2b43.css",
+    "main.js": "/ibafest-landing/static/js/main.1059f5e0.js",
+    "static/js/453.67092050.chunk.js": "/ibafest-landing/static/js/453.67092050.chunk.js",
+    "static/media/ibafest-logo.png": "/ibafest-landing/static/media/ibafest-logo.2c1382e3f86ce48cb4c4.png",
+    "static/media/Niyi Osundare Portrait.png": "/ibafest-landing/static/media/Niyi Osundare Portrait.39545e4630db41d15726.png",
+    "index.html": "/ibafest-landing/index.html",
+    "main.8e2f2b43.css.map": "/ibafest-landing/static/css/main.8e2f2b43.css.map",
+    "main.1059f5e0.js.map": "/ibafest-landing/static/js/main.1059f5e0.js.map",
+    "453.67092050.chunk.js.map": "/ibafest-landing/static/js/453.67092050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e2f2b43.css",
+    "static/js/main.1059f5e0.js"
+  ]
+}

@@ -11,7 +11,7 @@ export const Hero = () => {
           <div className="w-32 h-32 flex items-center justify-center bg-white/10 backdrop-blur-sm p-4 rounded-2xl shadow-2xl border border-orange-600/30">
             <img 
               src={ibafestLogo} 
-              alt="ÌbàFest Logo" 
+              alt="IbaFest Logo" 
               className="w-full h-full object-contain"
             />
           </div>

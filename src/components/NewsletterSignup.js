@@ -16,7 +16,7 @@ export const NewsletterSignup = () => {
   return (
     <section className="w-full bg-gradient-to-r from-[#40000B] to-[#D65D2B] text-white py-20 px-4 md:px-8">
       <div className="max-w-4xl mx-auto text-center">
-        <h2 className="text-3xl md:text-4xl font-bold mb-6">Join the ÌbàFest Community</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mb-6">Join the IbaFest Community</h2>
         <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto mb-8 leading-relaxed">
           Be part of Africa's most vibrant literary festival. Get exclusive updates about the festival, featured authors, and year-round cultural programming.
         </p>
@@ -24,7 +24,7 @@ export const NewsletterSignup = () => {
         {isSubscribed ? (
           <div className="bg-green-500 text-white p-4 rounded-xl max-w-md mx-auto flex items-center">
             <Check className="w-5 h-5 mr-2" />
-            Welcome to the ÌbàFest family!
+            Welcome to the IbaFest family!
           </div>
         ) : (
           <div className="max-w-lg mx-auto">

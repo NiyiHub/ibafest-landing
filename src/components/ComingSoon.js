@@ -10,7 +10,7 @@ export const ComingSoon = () => {
             A Festival Like No Other
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            ÌbàFest is more than an event—it's a movement celebrating African creativity, fostering literacy, and building cultural bridges.
+            IbaFest is more than an event—it's a movement celebrating African creativity, fostering literacy, and building cultural bridges.
           </p>
         </div>
         

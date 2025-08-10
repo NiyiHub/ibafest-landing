@@ -36,7 +36,7 @@ export const Footer = () => {
           </div>
           
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-white mb-4">Follow ÌbàFest</h3>
+            <h3 className="text-xl font-bold text-white mb-4">Follow IbaFest</h3>
             <div className="grid grid-cols-3 gap-3">
               <a href="https://instagram.com/ibadanfestival" className="bg-white/10 hover:bg-[#D65D2B] p-3 rounded-lg transition-colors group flex items-center justify-center">
                 <Instagram className="w-5 h-5 group-hover:text-white" />
@@ -66,7 +66,7 @@ export const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 mb-4 md:mb-0">
-              © {new Date().getFullYear()} Ibadan Book and Arts Festival (ÌbàFest). All rights reserved.
+              © {new Date().getFullYear()} Ibadan Book and Arts Festival (IbaFest). All rights reserved.
             </p>
             <div className="text-gray-400 text-sm flex items-center">
               Made with <Heart className="w-4 h-4 mx-1 text-[#D65D2B]" /> for African Literature
